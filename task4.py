@@ -17,5 +17,3 @@ def area(x):
     return a
 
 
-b = round(area(2),2) 
-print(b)
