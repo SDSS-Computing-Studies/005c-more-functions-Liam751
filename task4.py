@@ -13,9 +13,9 @@ You may want to use the math module to complete this problem
 import math
 
 def area(x):
-    a = math.pi() * (x**2)
+    a = 3.14159265359 * (x**2)
     return a
 
 
-b = round(area(2),2) == 12.57
+b = round(area(2),2) 
 print(b)
